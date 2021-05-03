@@ -24,7 +24,7 @@ Projects legend:
   - ❄️ - Freezed. Was started but decided to not do any work further at least for now.
 
 ### List of projects
-I'll give there descriptive names, for more information check projects `README.md`. But there is possibility that I didn't write it 😅. (Oops, sorry)
+I'll give there descriptive names, for more information check project's `README.md`. But there is possibility that I didn't write it 😅. (Oops, sorry)
 - JavaScript:
   - 💼 ✔️ [Currency converted made with react. Fetching rates via API](https://github.com/Leniorko/digital-design-html-css)
   - 🎓 ✔️ [Task was described as: Define person skin color by 3 points](https://github.com/Leniorko/college-color-picker)

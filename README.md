@@ -40,3 +40,4 @@ I'll give there descriptive names, for more information check project's `README.
   - 💼 ✔️ [C# test tasks. Check branches for different topics that were covered](https://github.com/Leniorko/digital-design-c-sharp)
 - PHP: 
   - 💼 ✔️ [API interaction and database writing](https://github.com/Leniorko/php-junior-test)
+  - 💼 ✔️ [Simple OOP task with simple SQL query and JQuery](https://github.com/Leniorko/php-oop-junior-test)

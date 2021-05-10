@@ -29,13 +29,13 @@ I'll give there descriptive names, for more information check project's `README.
   - 💼 ✔️ [Currency converted made with react. Fetching rates via API](https://github.com/Leniorko/digital-design-html-css)
   - 🎓 ✔️ [Task was described as: Define person skin color by 3 points](https://github.com/Leniorko/college-color-picker)
 - TypeScript:
-  -  🎓 🛠️ [Rewrited skin color definer (check another branch](https://github.com/Leniorko/college-color-picker)
+  -  🎓 🛠️ [Rewrited skin color definer (check another branch)](https://github.com/Leniorko/college-color-picker)
   -  🎓 ✨ 📆 [Chat app made with Socket.io + React](https://github.com/Leniorko/chatting-app)
   -  ✨ 📆 [My own blog React + Express.js](https://github.com/Leniorko/blogging)
-  -  ✨ ❄️ [Collection of react components that you can check from side men](https://github.com/Leniorko/doing-components)
+  -  ✨ ❄️ [Collection of react components that you can check from side menu](https://github.com/Leniorko/doing-components)
 - HTML+CSS (site without any interaction): 
   - 🎓 ✔️ [Simple banner animation](https://github.com/Leniorko/college-banner-animation)
-  - 🎓 ✔️ [Firs really completed site (not really responsive)](https://github.com/Leniorko/verstka-mark)
+  - 🎓 ✔️ [Firs really completed site (but not really responsive)](https://github.com/Leniorko/verstka-mark)
 - C#:
   - 💼 ✔️ [C# test tasks. Check branches for different topics that were covered](https://github.com/Leniorko/digital-design-c-sharp)
 - PHP: 

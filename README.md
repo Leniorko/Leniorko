@@ -29,7 +29,7 @@ I'll give there descriptive names, for more information check project's `README.
   - 💼 ✔️ [Currency converted made with react. Fetching rates via API](https://github.com/Leniorko/digital-design-html-css)
   - 🎓 ✔️ [Task was described as: Define person skin color by 3 points](https://github.com/Leniorko/college-color-picker)
 - TypeScript:
-  -  🎓 🛠️ [Rewrited skin color definer (check another branch)](https://github.com/Leniorko/college-color-picker)
+  -  🎓 ✔️ [Rewrited skin color definer](https://github.com/Leniorko/college-color-picker-react)
   -  🎓 ✨ 📆 [Chat app made with Socket.io + React](https://github.com/Leniorko/chatting-app)
   -  ✨ 📆 [My own blog React + Express.js](https://github.com/Leniorko/blogging)
   -  ✨ ❄️ [Collection of react components that you can check from side menu](https://github.com/Leniorko/doing-components)
